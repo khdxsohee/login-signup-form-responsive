@@ -8,6 +8,9 @@ A stunning, modern and attractive Login and Sign Up form featuring a smooth slid
 - Responsive Layout: Adapts well to various screen sizes (basic responsiveness included).
 - Smooth Fonts: Utilizes the Poppins font for excellent readability and an aesthetically pleasing appearance.
 - Social Login Integration: Includes icons for Google, Facebook, and LinkedIn.
+
+![image](https://github.com/user-attachments/assets/32994630-55fc-46f0-8183-2970f9ef5481)
+
 # 🛠️ Technologies Used
 - HTML5: For structuring the content.
 - CSS3: For styling and animations.
